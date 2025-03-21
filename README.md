@@ -1,0 +1,2 @@
+# Capital-City-Bank-Campaign-Performance-Analysis-Forecasting
+Analyzed Capital City Bank's Best Depositor Campaign (Q1-Q3) using Power BI to track conversion rates, household demographics, and marketing efficiency. Developed a Q4 predictive model that identified high-net-worth customers for a credit card referral initiative. Improved targeting strategy to drive highest customer acquisition and ROI.
