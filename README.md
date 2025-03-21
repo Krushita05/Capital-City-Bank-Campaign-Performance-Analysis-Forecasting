@@ -9,8 +9,8 @@ Through Power BI, the project provided interactive dashboards for tracking key p
 For Q4 forecasting, a marketing strategy based on incentives was suggested to increase the adoption of credit cards. Customers were offered up to $100 in bonuses for achieving eligibility criteria. The data-driven strategy was aimed at improving customer retention and acquisition and thereby marketing ROI for Capital City Bank.
 
 # Key Contributions:
-# ✔ Created a Power BI dashboard to visualize campaign performance and optimize marketing spend.
-# ✔ Developed a predictive model for Q4 engagement prediction based on household demographics.
-# ✔ Designed a targeted segmentation approach to enhance conversion rates through referral incentives.
+✔ Created a Power BI dashboard to visualize campaign performance and optimize marketing spend.
+✔ Developed a predictive model for Q4 engagement prediction based on household demographics.
+✔ Designed a targeted segmentation approach to enhance conversion rates through referral incentives.
 
 This project combined data analytics, marketing strategy, and business intelligence, illustrating the promise of data-driven decision-making in financial services.
